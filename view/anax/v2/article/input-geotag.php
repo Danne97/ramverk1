@@ -14,7 +14,7 @@ namespace Anax\View;
 
 
 ?>
-<form action="http://www.student.bth.se/~dahg17/dbwebb-kurser/ramverk1/me/redovisa/htdocs/validate/json">
-  Domain: <input type="text" name="dname">
+<form action="http://www.student.bth.se/~dahg17/dbwebb-kurser/ramverk1/me/redovisa/htdocs/geotag/json">
+  IP: <input type="text" name="dIp">
   <input type="submit" value="Get IP">
 </form>

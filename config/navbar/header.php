@@ -53,5 +53,11 @@ return [
             "url" => "validate/page",
             "title" => "Validera IP adresser",
         ],
+
+        [
+            "text" => "Geotag",
+            "url" => "geotag/page",
+            "title" => "Geotag",
+        ],
     ],
 ];
